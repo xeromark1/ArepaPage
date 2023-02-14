@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <div>
+        <div className='contacto'>
           <h4>Contactos: <p>Heidy Perez</p>  <div className='ajuste'> <img src={WhatsApp_icon} className='icono' />  <p>+56 9 4730 4136</p> </div></h4>
         </div>
         
