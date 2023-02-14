@@ -40,8 +40,8 @@ h4{
   margin-left: 20px;
   font-family: 'Dancing Script', cursive;
   font-style: italic;
-  background-color: #b56b32;
 
+  
 }
 
 p {
@@ -114,4 +114,9 @@ img {
 
 .ajuste{
   display: flex;
+}
+
+.contacto{
+  background-color: #b56b32;
+
 }
