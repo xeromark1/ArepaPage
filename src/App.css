@@ -1,0 +1,114 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #FFF9C4;
+}
+
+header{
+  font-size: 2em;
+
+  background-color: #F8D9C1;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1{
+  font-family: "Playfair Display", serif;
+  color: #885C5C;
+  text-shadow: 1px 1px 1px #897c7c;
+  padding-right: 60px;
+  
+  
+}
+
+.h1-container{
+  text-align: center;
+  width: 100%;
+}
+
+h3{
+  font-family: 'Dancing Script', cursive;
+  text-shadow: 2px 2px 4px #897c7c;
+
+}
+
+h4{
+  margin-left: 20px;
+
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+small{
+  margin-top: 10px;
+  font-size: 16px;
+  font-family: 'Dancing Script', cursive;
+  text-align:right;
+  font-style: italic;
+
+  
+}
+
+.trasparencia{
+  opacity: 0.5;
+}
+
+
+
+
+
+.divConjunto{
+  display: flex;
+  flex-wrap: wrap;
+
+  height: 500px;
+  margin-left: 40px;
+
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+
+}
+
+.dive{
+
+  background: white;
+  padding: 10px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+
+  
+}
+
+img {
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 18pc;
+  display: inline-block;
+  margin-right: 10px;
+}
+.icono {
+  height: 40px;
+}
+
+.product-description {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  max-width: 400px;
+  margin: 0 auto;
+  font-style: italic;
+
+}
+
+.ajuste{
+  display: flex;
+}

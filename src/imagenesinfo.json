@@ -1,0 +1,31 @@
+[
+    {
+        "name":"Nombre de la arepa",
+        "description":"Descripcion de la arepa, pueden ser sus medidas, si es un poco mas dulce que otra, si es simple o salada",
+        "price":"1000 CLP",
+        "image":"arepaimagen.jpg"
+
+    },
+    {
+        "name":"Nombre de la arepa",
+        "description":"Descripcion de la arepa, pueden ser sus medidas, si es un poco mas dulce que otra, si es simple o salada",
+        "price":"1000 CLP",
+        "image":"arepaimagen1.jpg"
+
+    },   
+    {
+        "name":"Nombre de la arepa",
+        "description":"Descripcion de la arepa, pueden ser sus medidas, si es un poco mas dulce que otra, si es simple o salada",
+        "price":"1000 CLP",
+        "image":"arepaimagen2.jpg"
+
+    },    
+    {
+        "name":"Nombre de la arepa",
+        "description":"Descripcion de la arepa, pueden ser sus medidas, si es un poco mas dulce que otra, si es simple o salada",
+        "price":"1000 CLP",
+        "image":"arepaimagen3.jpg"
+
+    }
+    
+]
